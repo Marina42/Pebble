@@ -1,0 +1,4 @@
+1) UV sensor : GUVA-S12SD
+2) smartstrap connector : hack a charging cable
+
+3) do some magiks
