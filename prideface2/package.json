@@ -70,13 +70,19 @@
           "type": "font",
           "characterRegex": "[0-9:\\-]",
           "name": "DATE_FONT_20",
-          "file": "fonts/Pacifico.ttf"
+          "file": "fonts/leco1976-regular.ttf"
         },
         {
           "type": "font",
           "characterRegex": "[0-9:.]",
-          "name": "HOUR_FONT_48",
-          "file": "fonts/Pacifico.ttf"
+          "name": "HOUR_FONT_55",
+          "file": "fonts/leco1976-regular.ttf"
+        },
+        {
+          "type": "font",
+          "characterRegex": "[0-9:.]",
+          "name": "HOUR_FONT_40",
+          "file": "fonts/leco1976-regular.ttf"
         },
         {
           "type": "bitmap",
@@ -87,13 +93,13 @@
           "type": "font",
           "characterRegex": "[\\0-9%C~dca-z]",
           "name": "FONT_SMALL_17",
-          "file": "fonts/DancingScript-Regular.ttf"
+          "file": "fonts/leco1976-regular.ttf"
         },
         {
           "type": "font",
           "characterRegex": "[0-9:.]",
           "name": "FONT_BIG_34",
-          "file": "fonts/DancingScript-Bold.ttf"
+          "file": "fonts/leco1976-regular.ttf"
         }
       ]
     },
@@ -119,8 +125,7 @@
       "watchface": true
     },
     "targetPlatforms": [
-      "basalt",
-      "chalk"
+      "basalt"
     ],
     "capabilities": [
       ""

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+pebble build
+pebble install --cloudpebble
+#pebble install --emulator chalk

@@ -2,5 +2,5 @@
 
 #pebble emu-set-timeline-peek --emulator aplite off
 pebble emu-set-timeline-quick-view --emulator basalt off
-pebble emu-set-timeline-quick-view --emulator chalk off
+#pebble emu-set-timeline-quick-view --emulator chalk off
 #pebble emu-set-timeline-peek --emulator diorite off
