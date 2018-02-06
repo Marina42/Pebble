@@ -3,8 +3,6 @@
 #include "windows/main_window_round.h"
 
 void init() {
-  /**** Initiate KiezelPay ****/
- // kiezelpay_init();
   /**** Init watchFace ****/
   #if defined(PBL_RECT)
     /* Rectangular UI code */
@@ -16,7 +14,6 @@ void init() {
 }
 
 void deinit() {
-  //kiezelpay_deinit();
 }
 
 int main(void) {

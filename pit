@@ -1,5 +1,5 @@
 #!/bin/sh
 
 pebble build
-pebble install --emulator basalt
-#pebble install --emulator chalk
+pebble install --logs --emulator basalt
+pebble install --emulator chalk
